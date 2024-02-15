@@ -100,7 +100,7 @@ Create a Spark session with Spark Connect.
 
 
 
-### Helo Function
+### Help Function
 
 
 ```python
